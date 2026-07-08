@@ -76,7 +76,7 @@ status:     Sempre estudando algo novo 📚
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HenriqueRicieri&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak"/>
+  <img src="https://github-readme-streak-stats-ricieri.vercel.app/?user=HenriqueRicieri&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak"/>
 </div>
 
 ---
