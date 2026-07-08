@@ -71,16 +71,12 @@ status:     Sempre estudando algo novo 📚
 ## 📊 GitHub em números
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRicieri&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens"/>
+  <img height="165" src="https://github-readme-stats-beta-umber.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas"/>
+  <img height="165" src="https://github-readme-stats-beta-umber.vercel.app/api/top-langs/?username=HenriqueRicieri&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueRicieri&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueRicieri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus"/>
+  <img src="https://streak-stats.demolab.com/?user=HenriqueRicieri&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak"/>
 </div>
 
 ---
