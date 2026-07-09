@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:69D3A7&height=200&section=header&text=Henrique%20Ricieri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Test%20Automation%20%C2%B7%20Developer&descAlignY=58&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:69D3A7&height=200&section=header&text=Henrique%20Ricieri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Analyst%20%C2%B7%20Test%20Automation&descAlignY=58&descSize=18" alt="banner"/>
 </div>
 
 <!-- TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=69D3A7&center=true&vCenter=true&width=600&lines=Breaking+code+before+your+users+do;Cypress+%7C+C%23+.NET+%7C+Next.js+%7C+SQL+Server;Quality+is+never+an+accident" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=69D3A7&center=true&vCenter=true&width=600&lines=Breaking+code+before+your+users+do;Cypress+%7C+C%23+.NET+%7C+Next.js+%7C+SQL+Server" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -23,24 +23,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-Quality Assurance Analyst at **Atak Sistemas** (Maringá, Brazil), where I design automated test suites and help ship software that actually works. I hold a degree in **Systems Analysis and Development** and I never stop studying.
+I'm a QA analyst at **Atak Sistemas** (Maringá, Brazil). Most of my work is test automation: I build and maintain end-to-end suites with **Cypress**, plan coverage for new features, and go digging in **SQL Server** when a bug hides in the data instead of the code.
 
-- 🔍 I hunt bugs before they reach production — test strategy, automation and exploratory testing
-- 🤖 I build end-to-end test suites with **Cypress**
-- ⚙️ Comfortable on both sides of the stack: **C# / .NET** back ends and **Next.js** front ends
-- 🗄️ At home with **SQL Server** — from writing queries to chasing bugs straight into the database
-- 🎯 My goal: blend a QA mindset with solid engineering to build reliable software
-- 💬 Always up for a conversation about testing, automation and software quality
+The products I test run on **C# / .NET** and **Next.js**, so that's the stack I read, write and study in. I have a degree in Systems Analysis and Development.
+
+Currently building in public:
+
+- [cypress-e2e-saucedemo](https://github.com/HenriqueRicieri/cypress-e2e-saucedemo) — E2E suite with Page Objects, custom commands and CI on GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Test Automation & Quality
+### Testing
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Languages & Frameworks
@@ -60,7 +59,7 @@ Quality Assurance Analyst at **Atak Sistemas** (Maringá, Brazil), where I desig
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-beta-umber.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -74,9 +73,5 @@ Quality Assurance Analyst at **Atak Sistemas** (Maringá, Brazil), where I desig
 ---
 
 <div align="center">
-  <i>Open to talking about testing, automation and clean code — reach out anytime.</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:69D3A7,100:512BD4&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=75" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:69D3A7,100:512BD4&height=100&section=footer" alt="footer"/>
 </div>
