@@ -31,7 +31,7 @@ The products I test run on **C# / .NET** and **Next.js**, so that's the stack I 
 
 Currently building in public:
 
-- [cypress-e2e-saucedemo](https://github.com/HenriqueRicieri/cypress-e2e-saucedemo) — E2E suite with Page Objects, custom commands and CI on GitHub Actions
+- [cypress-e2e-saucedemo](https://github.com/HenriqueRicieri/cypress-e2e-saucedemo): an E2E suite with Page Objects, custom commands and CI on GitHub Actions
 
 ---
 
