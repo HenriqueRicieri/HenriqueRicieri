@@ -29,31 +29,18 @@ I'm a QA analyst at **Atak Sistemas** (Maringá, Brazil). Most of my work is tes
 
 The products I test run on **C# / .NET** and **Next.js**, so that's the stack I read, write and study in. I have a degree in Systems Analysis and Development.
 
-Currently building in public:
-
-- [cypress-e2e-saucedemo](https://github.com/HenriqueRicieri/cypress-e2e-saucedemo): an E2E suite with Page Objects, custom commands and CI on GitHub Actions
-
 ---
 
 ## Tech Stack
 
 <div align="center">
 
-### Testing
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
-
-### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -62,8 +49,7 @@ Currently building in public:
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-beta-umber.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-beta-umber.vercel.app/api/top-langs/?username=HenriqueRicieri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://github-readme-stats-beta-umber.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 </div>
 
 <div align="center">
