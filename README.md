@@ -1,15 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:69D3A7&height=200&section=header&text=Henrique%20Ricieri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Analyst%20%C2%B7%20Test%20Automation%20%C2%B7%20C%23%20and%20JavaScript&descAlignY=58&descSize=18" alt="Henrique Ricieri"/>
-</div>
+# Henrique Ricieri
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/henriquericieri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:123ricierihenrique@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+QA Analyst · Test Automation · C# and JavaScript
+
+<a href="https://www.linkedin.com/in/henriquericieri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:123ricierihenrique@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ## About
 
@@ -67,8 +61,4 @@ At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Action
 
 <div align="center">
   <img src="https://github-readme-streak-stats-ricieri.vercel.app/?user=HenriqueRicieri&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:69D3A7,100:512BD4&height=100&section=footer" alt=""/>
 </div>
