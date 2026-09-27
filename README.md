@@ -1,6 +1,6 @@
 # Henrique Ricieri
 
-QA Analyst · Test Automation · C# and JavaScript
+QA Analyst · Test Automation · Playwright, Cypress, TypeScript and C#
 
 <a href="https://www.linkedin.com/in/henriquericieri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:henriquericieri.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -11,9 +11,11 @@ I test the financial module of an ERP at **Atak Sistemas** in Maringá, Brazil. 
 
 A bug in that module does not break a layout. It moves money, or fails to move it. So I do not stop at the screen: I run the payment flow the way a user would, read what the bank actually returned in the integration log when it fails, hit the endpoint from **Postman** to isolate the failure, and query **SQL Server** to confirm that the transaction, the balance and the ledger entries match the business rule.
 
-The ERP is being rewritten screen by screen, from an ExtJS front end to Razor Pages on .NET 8. For each migrated screen I write the **Cypress** coverage, check that it behaves exactly like the screen it replaces, and retire the obsolete spec so the suite never carries dead tests.
+I maintain 17 **Cypress** projects that run as CI jobs: 2,574 active tests across 319 screens. The ERP is also being rewritten screen by screen, from an ExtJS front end to Razor Pages on .NET 8, and I have covered about 120 migrated screens so far. For each one I write the Cypress coverage, check that it behaves exactly like the screen it replaces, and retire the obsolete spec so the suite never carries dead tests.
 
 Before QA I spent a little over a year in support at the same company, reproducing customer-reported defects and isolating the business rule that failed. That is where the domain knowledge comes from.
+
+I use **Claude Code** every day, at work and in my own projects, to write and review test code, debug failures and build tooling. I treat what it writes like any other code: it has to pass the tests, the linter and CI, and I read the diff before it goes in.
 
 ## Projects
 
@@ -23,7 +25,7 @@ TypeScript · Playwright · Docker · GitHub Actions
 
 End-to-end and API tests for Firefly III, an open source personal finance manager, running against a pinned instance in Docker. The same approach I use at work: arrange the data through the API, act through the UI, and assert through the API, to the cent. It covers balances, transfers, rounding, bank reconciliation, automatic rules, budgets and the API contract.
 
-The suite prepares an empty instance by itself, runs in parallel with one session per worker, and CI repeats it to catch flaky tests. The README documents the problems found along the way, such as a guided tour that stole keyboard focus and validation messages that leaked between parallel tests through a shared session.
+The suite prepares an empty instance by itself, gives every parallel worker its own user, validates every API response against a schema, and CI repeats it to catch flaky tests. The README documents the problems found along the way, such as a guided tour that stole keyboard focus and validation messages that leaked between parallel tests through a shared session.
 
 ### [LabelForge](https://github.com/HenriqueRicieri/LabelForge)
 
@@ -53,14 +55,15 @@ End-to-end suite for the SauceDemo store: login, inventory, cart and checkout, b
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
-At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Actions, testing an ExtJS front end and Razor Pages on .NET 8. Own projects: Playwright, TypeScript and Docker; C#, .NET 10, Avalonia UI, xUnit, SkiaSharp and Velopack.
+At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Actions, testing an ExtJS front end and Razor Pages on .NET 8. Own projects: Playwright, TypeScript and Docker; C#, .NET 10, Avalonia UI, xUnit, SkiaSharp and Velopack. Everywhere: Claude Code.
 
 ## Background
 
-- Degree in Systems Analysis and Development, UniCesumar (2022 to 2024)
+- Undergraduate degree in Systems Analysis and Development, UniCesumar (2022 to 2024)
 - English at C1 level, certified by the Michigan English Test (MET)
 
 ## Stats
