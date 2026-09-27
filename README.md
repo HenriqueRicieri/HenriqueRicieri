@@ -70,7 +70,7 @@ At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Action
 
 <div align="center">
   <img src="https://github-readme-stats-beta-umber.vercel.app/api?username=HenriqueRicieri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-beta-umber.vercel.app/api/top-langs/?username=HenriqueRicieri&layout=compact&theme=tokyonight&hide_border=true&hide=zimpl" alt="Top languages"/>
+  <img src="https://github-readme-stats-beta-umber.vercel.app/api/top-langs/?username=HenriqueRicieri&layout=compact&theme=tokyonight&hide_border=true&hide=zimpl,powershell,python&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
 </div>
 
 <div align="center">
