@@ -17,6 +17,14 @@ Before QA I spent a little over a year in support at the same company, reproduci
 
 ## Projects
 
+### [playwright-firefly-iii](https://github.com/HenriqueRicieri/playwright-firefly-iii)
+
+TypeScript · Playwright · Docker · GitHub Actions
+
+End-to-end and API tests for Firefly III, an open source personal finance manager, running against a pinned instance in Docker. The same approach I use at work: arrange the data through the API, act through the UI, and assert through the API, to the cent. It covers balances, transfers, rounding, bank reconciliation, automatic rules, budgets and the API contract.
+
+The suite prepares an empty instance by itself, runs in parallel with one session per worker, and CI repeats it to catch flaky tests. The README documents the problems found along the way, such as a guided tour that stole keyboard focus and validation messages that leaked between parallel tests through a shared session.
+
 ### [LabelForge](https://github.com/HenriqueRicieri/LabelForge)
 
 C# / .NET 10 · Avalonia UI · MIT
@@ -35,17 +43,20 @@ End-to-end suite for the SauceDemo store: login, inventory, cart and checkout, b
 
 <div align="center">
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Actions, testing an ExtJS front end and Razor Pages on .NET 8. Own projects: C#, .NET 10, Avalonia UI, xUnit, SkiaSharp and Velopack.
+At work: Cypress, JavaScript, SQL Server, Postman, Git, GitLab and GitHub Actions, testing an ExtJS front end and Razor Pages on .NET 8. Own projects: Playwright, TypeScript and Docker; C#, .NET 10, Avalonia UI, xUnit, SkiaSharp and Velopack.
 
 ## Background
 
