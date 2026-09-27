@@ -23,9 +23,9 @@ I use **Claude Code** every day, at work and in my own projects, to write and re
 
 TypeScript · Playwright · Docker · GitHub Actions
 
-End-to-end and API tests for Firefly III, an open source personal finance manager, running against a pinned instance in Docker. The same approach I use at work: arrange the data through the API, act through the UI, and assert through the API, to the cent. It covers balances, transfers, rounding, bank reconciliation, automatic rules, budgets and the API contract.
+End-to-end, API and accessibility tests for Firefly III, an open source personal finance manager, running against a pinned instance in Docker. The same approach I use at work: arrange the data through the API, act through the UI, and assert through the API, to the cent. It covers balances, transfers, rounding, bank reconciliation, automatic rules, budgets, split transactions and multiple currencies, in Chromium, Firefox and WebKit.
 
-The suite prepares an empty instance by itself, gives every parallel worker its own user, validates every API response against a schema, and CI repeats it to catch flaky tests. The README documents the problems found along the way, such as a guided tour that stole keyboard focus and validation messages that leaked between parallel tests through a shared session.
+Every API response is validated against a schema, each parallel worker gets its own Firefly user, any uncaught JavaScript error fails the test, and CI can repeat the whole suite to catch flaky tests. Along the way it found a real bug in Firefly III, kept in the suite as an expected failure, and an accessibility baseline checked with axe.
 
 ### [LabelForge](https://github.com/HenriqueRicieri/LabelForge)
 
